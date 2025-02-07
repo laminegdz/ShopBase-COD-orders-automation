@@ -22,7 +22,7 @@ this is beta test only , u can add rotating proxies for avoiding rate limiting a
 
 
 🛑 Responsible Use
-Use only in a controlled testing environment (e.g., Shopify dev stores).
+Use only in a controlled testing environment 
 Do not use on real stores without permission.
 Respect Shopify's policies to avoid violations.
 This script can lead to BAN new stores
